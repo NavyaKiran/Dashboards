@@ -1,4 +1,4 @@
-This is a simple but intuitive dashboard. I developed it using Walmart data from the years, 2011 - 2015. 
+This is a simple but intuitive dashboard. I developed it using Walmart data for the years, 2011 - 2015. 
 Some of the questions answered by this dashboard are : 
 * What is the total sales, profit, quantity sold, avg days for delivery across all the five years? Also, what are the total sales for each individual year?
 * On a map, represent the location of stores across the US. Also, we can filter that based on year. 

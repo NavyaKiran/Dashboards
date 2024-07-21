@@ -1,0 +1,20 @@
+This is a simple but intuitive dashboard. I developed it using Walmart data from the years, 2011 - 2015. 
+Some of the questions answered by this dashboard are : 
+* What is the total sales, profit, quantity sold, avg days for delivery across all the five years? Also, what are the total sales for each individual year?
+* On a map, represent the location of stores across the US. Also, we can filter that based on year. 
+* What are the sales by category of product? 
+* What kind of products brought in the most profit?
+* What are the most profit earning states?
+* What are the states earning a loss?
+* What category of products are profitable? 
+
+Based on the results, the following recommendations can be made to the stakeholder (Walmart): 
+* Invest more in states bringing in profit. Analyse gaps in store locations, so it is more accessible. This can be done by developing a python script
+  to find the distance between stores and then recommending store locations at places where there are no stores, but there exists a town/city. 
+* Reconsider keeping stores open in locations incurring losses and invest that in profitable locations. 
+* Try reducing the avg days to delivery by ensuring better supply chain connectivity. Maybe more customers will start ordering then. 
+* Ensure profitable products are always in stock in locations. 
+* As you see in the dashboard, people buy products that are supposedly expensive (phones, chairs, tables, etc). 
+  So, maybe consider improving the variety. 
+* Most of the locations are on the west coast according to the map, maybe consider investing in east coast locations to assess their profitability? 
+  Conduct surveys and interviews to determine whether people would consider shopping there? 
